@@ -19,7 +19,7 @@ public class SiakadFor17 {
     }
 
     System.out.println("Nilai Tertinggi " + tertinggi);
-    System.out.println("Nilai Tertinggi " + terendah);
+    System.out.println("Nilai Terendah " + terendah);
     }
     
 }
